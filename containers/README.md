@@ -8,7 +8,7 @@
 * [build kit](https://hub.docker.com/r/docker/dockerfile/) cheat sheet
 * [dumb-init](https://github.com/Yelp/dumb-init) - Process supervisor that runs with PID 1 and spawns other process inside the container. Handles signals. 
 * [distroless](https://github.com/GoogleContainerTools/distroless)
-* 
+
 ## Dockerfile and CIS Benchmark
 * [Hadolint](https://github.com/hadolint/hadolint) - tests Dockerfile
 * [Dockle](https://github.com/goodwithtech/dockle) - tests images
