@@ -1,3 +1,15 @@
+## TLS
+    nmap --script ssl-enum-ciphers -p 8080 localhost
+    
+    openssl s_client -connect serverAddress:port
+
+    openssl s_client -connect example.com:443 -tls1
+    
+* [sslyze](https://github.com/nabla-c0d3/sslyze)
+    python3 -m sslyze [host]
+
+* [sslscan](https://github.com/rbsec/sslscan)
+
 ## Nitko
     nikto -h host
 
