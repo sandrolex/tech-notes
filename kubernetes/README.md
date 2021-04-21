@@ -14,3 +14,6 @@
 * [Falco Project](https://falco.org/docs/)
 * [Github](https://github.com/falcosecurity/falco)
 * [Unveil malicious process with Falco](https://sysdig.com/blog/unveil-processes-falco-cloud/)
+
+## Training
+* [K8s simulator](https://github.com/kubernetes-simulator/simulator) runs k8s on aws and try different misconfiguration scenarios
