@@ -60,5 +60,5 @@
 
 
 
-[Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
-[Examples](https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly)
+* [Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation/487278#487278)
+* [Examples](https://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly)
