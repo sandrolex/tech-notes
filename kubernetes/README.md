@@ -20,3 +20,7 @@
 
 ## Training
 * [K8s simulator](https://github.com/kubernetes-simulator/simulator) runs k8s on aws and try different misconfiguration scenarios
+
+
+# Etcd
+* [How to modify etcd data directly](https://medium.com/flant-com/modifying-kubernetes-etcd-data-ed3d4bb42379)
