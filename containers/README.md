@@ -11,6 +11,8 @@
 * [distroless](https://github.com/GoogleContainerTools/distroless)
 * [google-base-image](https://github.com/GoogleContainerTools/base-images-docker) how google build images with reproducible builds
 * [container-diff](https://github.com/GoogleContainerTools/container-diff)
+* [dive](https://github.com/wagoodman/dive)
+* [skopeo](https://github.com/containers/skopeo)
 
 ## Dockerfile and CIS Benchmark
 * [Hadolint](https://github.com/hadolint/hadolint) - tests Dockerfile
