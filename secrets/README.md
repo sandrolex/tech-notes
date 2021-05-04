@@ -8,3 +8,8 @@
 
 * [gitsecrets](https://github.com/awslabs/git-secrets)
 * [dumpster diver](https://github.com/securing/DumpsterDiver)
+
+
+## K8s
+* [bank-vault](https://github.com/banzaicloud/bank-vaults)
+* [kamus](https://github.com/Soluto/kamus)
