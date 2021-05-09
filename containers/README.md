@@ -14,6 +14,11 @@
 * [dive](https://github.com/wagoodman/dive)
 * [skopeo](https://github.com/containers/skopeo)
 
+# Content Trust
+* [Google's Cosign](https://github.com/sigstore/cosign)
+* [Distroless + Cosign](https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.html)
+* [Notary](https://docs.docker.com/notary/getting_started/)
+
 ## Dockerfile and CIS Benchmark
 * [Hadolint](https://github.com/hadolint/hadolint) - tests Dockerfile
 * [Dockle](https://github.com/goodwithtech/dockle) - tests images
