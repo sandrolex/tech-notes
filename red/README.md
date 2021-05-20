@@ -1,2 +1,2 @@
-* [wordlists](https://d1.awsstatic.com/whitepapers/api-gateway-security.pdf)
+* [wordlists](https://github.com/3ndG4me/KaliLists)
 
