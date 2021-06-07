@@ -16,10 +16,11 @@
       Plug 'preservim/nerdtree'
       Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
       Plug 'vim-airline/vim-airline'
-      Plug 'vim-airline/vim-airline-th  emes'
+      Plug 'vim-airline/vim-airline-themes'
       Plug 'arcticicestudio/nord-vim'
     call plug#end()
 
+    let g:airline_powerline_fonts = 1
     let g:deoplete#enable_at_startup = 1
     colorscheme nord
     syntax enable
