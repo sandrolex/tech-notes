@@ -3,6 +3,7 @@
 * [Generate Network Policy by sniffing network traffic](https://itnext.io/generating-kubernetes-network-policies-by-sniffing-network-traffic-6d5135fe77db)
 * [Flatcar linux](https://www.rkatz.xyz/post/2020-09-13-flatcar/)
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower
+* [k8x examples](https://github.com/knelasevero/kubernetes-examples)
 
 
 ## Post Exploit
