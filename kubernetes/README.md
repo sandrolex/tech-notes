@@ -29,3 +29,7 @@
 
 # OPA
 * [Top 5 k8s controls](https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies)
+
+
+# tools
+* [kubens kubectx](https://github.com/ahmetb/kubectx)
