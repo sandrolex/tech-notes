@@ -19,6 +19,7 @@
 * [Github](https://github.com/falcosecurity/falco)
 * [Unveil malicious process with Falco](https://sysdig.com/blog/unveil-processes-falco-cloud/)
 * [Using Falco to monitor outbound traffic for Pods in Kubernetes](https://www.rkatz.xyz/post/2021-04-16-falco-network-monitoring/)
+* [Falco labs](https://falco.org/labs/)
 
 
 ## Training
