@@ -5,13 +5,11 @@
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower
 * [k8s examples](https://github.com/knelasevero/kubernetes-examples)
 * [k8s by example](https://kubebyexample.com/)
+* [Cosigned](https://github.com/dlorenc/cosigned) Admission Control tool to check cointainer signatures
 
 
 ## Post Exploit
 * [C2](https://github.com/cyberark/kubesploit)
-
-
-* [Cosigned](https://github.com/dlorenc/cosigned) Admission Control tool to check cointainer signatures
 
 
 ## Falco
@@ -24,6 +22,7 @@
 
 ## Training
 * [K8s simulator](https://github.com/kubernetes-simulator/simulator) runs k8s on aws and try different misconfiguration scenarios
+* [K8s CTF](https://github.com/quarkslab/minik8s-ctf)
 
 
 # Etcd
