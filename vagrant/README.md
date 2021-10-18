@@ -27,5 +27,5 @@ vagrant ssh
 vagrant halt 
 ```
 
-## [how to set up vm name](https://stackoverflow.com/questions/17845637/how-to-change-vagrant-default-machine-name)
+* [how to set up vm name](https://stackoverflow.com/questions/17845637/how-to-change-vagrant-default-machine-name)
 
