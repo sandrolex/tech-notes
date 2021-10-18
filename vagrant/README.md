@@ -1,3 +1,5 @@
+# Vagrant cheat
+```
 vagrant box add ubuntu/focal64 
 
 cd vms
@@ -23,4 +25,7 @@ vagrant reload
 vagrant ssh 
 
 vagrant halt 
+```
+
+## [how to set up vm name](https://stackoverflow.com/questions/17845637/how-to-change-vagrant-default-machine-name)
 
