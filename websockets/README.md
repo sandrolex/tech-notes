@@ -2,6 +2,8 @@
 
 ## What
 * [Writting WebSocket Servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
+* [WS in golang](https://yalantis.com/blog/how-to-build-websockets-in-go/)
+
 
 ## Security
 * [Top 8 vulns](https://www.neuralegion.com/blog/websocket-security-top-vulnerabilities/)
