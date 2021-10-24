@@ -35,7 +35,8 @@
 * [Top 5 k8s controls](https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies)
 
 ## Multi-tenancy
-* [Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
+* [MT with Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
+* [HNC](https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/)
 
 
 ## tools
