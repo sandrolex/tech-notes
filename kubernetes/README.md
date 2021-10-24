@@ -1,3 +1,5 @@
+# Kubernetes
+
 ## Howtos
 * [k8s on baremetal, flannel, metallb, coreos](https://www.marcolancini.it/2021/blog-kubernetes-lab-baremetal/)
 * [Generate Network Policy by sniffing network traffic](https://itnext.io/generating-kubernetes-network-policies-by-sniffing-network-traffic-6d5135fe77db)
@@ -26,12 +28,15 @@
 * [K8s CTF](https://github.com/quarkslab/minik8s-ctf)
 
 
-# Etcd
+## Etcd
 * [How to modify etcd data directly](https://medium.com/flant-com/modifying-kubernetes-etcd-data-ed3d4bb42379)
 
-# OPA
+## OPA
 * [Top 5 k8s controls](https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies)
 
+## Multi-tenancy
+* [Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
 
-# tools
+
+## tools
 * [kubens kubectx](https://github.com/ahmetb/kubectx)
