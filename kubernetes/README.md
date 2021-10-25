@@ -41,3 +41,8 @@
 
 ## tools
 * [kubens kubectx](https://github.com/ahmetb/kubectx)
+* [kubescape](https://github.com/armosec/kubescape)
+Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&CK® .
+Kubescape scans K8s clusters, YAML files, and HELM charts, and detect misconfigurations and software vulnerabilities at early stages of the CI/CD pipeline and provides a risk score instantly and risk trends over time. Kubescape integrates natively with other DevOps tools, including Jenkins, CircleCI and Github workflows.
+
+
