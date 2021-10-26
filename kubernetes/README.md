@@ -22,6 +22,9 @@
 * [Using Falco to monitor outbound traffic for Pods in Kubernetes](https://www.rkatz.xyz/post/2021-04-16-falco-network-monitoring/)
 * [Falco labs](https://falco.org/labs/)
 
+## eBPF
+* [Sidecarless Service Mesh](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
+* [eBPF CO RE Reference Guide](https://nakryiko.com/posts/bpf-core-reference-guide/)
 
 ## Training
 * [K8s simulator](https://github.com/kubernetes-simulator/simulator) runs k8s on aws and try different misconfiguration scenarios
