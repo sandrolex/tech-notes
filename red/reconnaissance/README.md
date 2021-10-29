@@ -31,7 +31,7 @@
 
 # Enumerate subdomains
 ## cero
-[cero](go get -u github.com/glebarez/cero)
+[cero](https://github.com/glebarez/cero)
 
 gets hosts from TLS certificates
 
