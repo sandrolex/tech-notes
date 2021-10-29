@@ -30,6 +30,11 @@
 
 
 # Enumerate subdomains
+## cero
+[cero](go get -u github.com/glebarez/cero)
+
+gets hosts from TLS certificates
+
 ## Sublist3r
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
 
