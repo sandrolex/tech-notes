@@ -12,6 +12,7 @@
 * [fieldaligment](https://pkg.go.dev/golang.org/x/tools/go/analysis/passes/fieldalignment) Previous known as maligned
 * [errcheck](https://github.com/kisielk/errcheck) unchecked errors
 * [inefassign](https://github.com/gordonklaus/ineffassign) detects ineffectual assignments
+* [on edge](https://github.com/trailofbits/on-edge) issues with panic defer recover
 
 
 ## Security
