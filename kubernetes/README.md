@@ -14,6 +14,7 @@
 ## Post Exploit
 * [C2](https://github.com/cyberark/kubesploit)
 * [Post Initial access](https://medium.com/swlh/kubernetes-attack-path-part-2-post-initial-access-1e27aabda36d)
+* [Cyberark guide](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
 
 
 ## Falco
