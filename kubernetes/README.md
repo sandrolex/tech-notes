@@ -29,6 +29,7 @@
 ## Training
 * [K8s simulator](https://github.com/kubernetes-simulator/simulator) runs k8s on aws and try different misconfiguration scenarios
 * [K8s CTF](https://github.com/quarkslab/minik8s-ctf)
+* [KubeCon 19 CTF](https://securekubernetes.com/)
 
 
 ## Etcd
