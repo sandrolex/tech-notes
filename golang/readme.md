@@ -20,3 +20,7 @@
 
 ## Middlewares
 * [Secure](https://github.com/unrolled/secure) Secure is an HTTP middleware for Go that facilitates some quick security wins.
+
+# Fuzzing
+* [go-fuzz](https://github.com/dvyukov/go-fuzz)
+* [gofuzz](https://github.com/google/gofuzz)
