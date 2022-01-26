@@ -15,6 +15,7 @@
 
 
 ## Security
+* [awesome golang security](https://github.com/guardrailsio/awesome-golang-security)
 * [GOVWA](https://github.com/0c34/govwa) Go Vulnerable Web Application
 
 ## Middlewares
