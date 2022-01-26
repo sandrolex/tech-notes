@@ -24,3 +24,4 @@
 # Fuzzing
 * [go-fuzz](https://github.com/dvyukov/go-fuzz)
 * [gofuzz](https://github.com/google/gofuzz)
+* [american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
