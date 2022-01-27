@@ -3,9 +3,8 @@
 * [Singularity](https://sylabs.io/guides/3.0/user-guide/quick_start.html) quick start / Single file based container
 
 # Tools
-* [dockerscan](https://github.com/cr0hn/dockerscan)
-
-## General 
+* [dockerscan](https://github.com/cr0hn/dockerscan) weaponize container images
+* [syft](https://github.com/anchore/syft) generate software bill of materials of containers
 * [build kit](https://hub.docker.com/r/docker/dockerfile/) cheat sheet
 * [buildah](https://github.com/containers/buildah/tree/master/docs/tutorials)
 * [dumb-init](https://github.com/Yelp/dumb-init) - Process supervisor that runs with PID 1 and spawns other process inside the container. Handles signals. 
