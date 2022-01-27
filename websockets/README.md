@@ -12,6 +12,8 @@
 * [OWASP HTML 5 cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#WebSockets)
 * [Cross Site WebSocket](https://notsosecure.com/how-cross-site-websocket-hijacking-could-lead-to-full-session-compromise/)
 * [Websocket vulns](https://blog.securelayer7.net/owasp-top-10-details-websocket-vulnerabilities-mitigations/)
+* [We're not on HTTP anymore](https://www.youtube.com/watch?v=bMFP71UAbPo&list=PLpr-xdpM8wG-WUI7yLUvdjm-Bcw7AqG9m&index=14) OWASP presentation on ws security. 
+* [awesome we security](https://github.com/PalindromeLabs/awesome-websocket-security)
 
 
 ## Tools
