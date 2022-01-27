@@ -9,6 +9,7 @@
 * [k8s by example](https://kubebyexample.com/)
 * [Cosigned](https://github.com/dlorenc/cosigned) Admission Control tool to check cointainer signatures
 * [Security Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
+* [Access the API from a POD](https://kubernetes.io/docs/tasks/run-application/access-api-from-pod/)
 
 
 ## Post Exploit
