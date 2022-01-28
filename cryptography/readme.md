@@ -10,3 +10,6 @@
 ## PGP
 * [What's the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
 * [The PGP problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html) --> points out some alternatives
+
+## File encryption
+* [age](https://github.com/FiloSottile/age)
