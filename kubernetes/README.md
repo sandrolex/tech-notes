@@ -10,12 +10,16 @@
 * [Cosigned](https://github.com/dlorenc/cosigned) Admission Control tool to check cointainer signatures
 * [Security Checklist](https://github.com/Vinum-Security/kubernetes-security-checklist)
 * [Access the API from a POD](https://kubernetes.io/docs/tasks/run-application/access-api-from-pod/)
+* [How to view network namespaces](https://www.packetcoders.io/how-to-view-the-network-namespaces-in-kubernetes/)
+* [How to configure security context for a pod](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+* 
 
 
 ## Post Exploit
 * [C2](https://github.com/cyberark/kubesploit)
 * [Post Initial access](https://medium.com/swlh/kubernetes-attack-path-part-2-post-initial-access-1e27aabda36d)
 * [Cyberark guide](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-3)
+* [Kubexploit](https://github.com/cyberark/kubesploit) Cyberark C2C tool
 
 
 ## Falco
