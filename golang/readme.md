@@ -18,6 +18,8 @@
 ## Security
 * [awesome golang security](https://github.com/guardrailsio/awesome-golang-security)
 * [GOVWA](https://github.com/0c34/govwa) Go Vulnerable Web Application
+* [Trail of bits, security assesemnt techniques for go](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
+* [Trail of bits, paniquing the right way](https://blog.trailofbits.com/2019/06/26/panicking-the-right-way-in-go/)
 
 ## Middlewares
 * [Secure](https://github.com/unrolled/secure) Secure is an HTTP middleware for Go that facilitates some quick security wins.
