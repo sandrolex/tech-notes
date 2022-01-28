@@ -1,6 +1,7 @@
 # Articles
 * [Worst best practices on Docker](https://pythonspeed.com/articles/security-updates-in-docker/) and why you should update base images
 * [Singularity](https://sylabs.io/guides/3.0/user-guide/quick_start.html) quick start / Single file based container
+* [Understanding container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
 
 # Tools
 * [dockerscan](https://github.com/cr0hn/dockerscan) weaponize container images
