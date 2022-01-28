@@ -6,3 +6,6 @@
 
 ## JWT
 * [No Way Jose](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) JWT is a bad standard. 
+
+## PGP
+* [What's the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
