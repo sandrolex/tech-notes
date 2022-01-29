@@ -29,3 +29,17 @@ vagrant halt
 
 * [how to set up vm name](https://stackoverflow.com/questions/17845637/how-to-change-vagrant-default-machine-name)
 
+
+* when you deleted the vm folder, but the vm is still running
+```bash
+VBoxManage list vms
+
+VBoxManage unregistervm --delete d07caa16-af34-4193-b671-02746d3a6fbd
+
+# if 
+# VBoxManage: error: Cannot unregister the machine 'mothership' while it is locked
+# then
+ps -ef | grep /usr/lib/virtualbox/VBoxHeadless
+kill -9 [pid]
+
+# run unregister again
