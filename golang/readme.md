@@ -3,7 +3,7 @@
 ## Patterns
 * [Functional Options](https://www.sohamkamani.com/golang/options-pattern/)
 * [OOP with dependency injection](https://www.toptal.com/go/golang-oop-tutorial)
-
+* [GRPC with go-kit](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 
 ## Tools
 * [awesome static analysis tools](https://github.com/analysis-tools-dev/static-analysis#go)
@@ -28,3 +28,4 @@
 * [go-fuzz](https://github.com/dvyukov/go-fuzz)
 * [gofuzz](https://github.com/google/gofuzz)
 * [american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
+
