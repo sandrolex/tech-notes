@@ -13,6 +13,7 @@
 * [How to view network namespaces](https://www.packetcoders.io/how-to-view-the-network-namespaces-in-kubernetes/)
 * [How to configure security context for a pod](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 * [Seccomp and SELinux](https://jhrozek.wordpress.com/2021/05/25/prevent-cve-exploits-in-your-kubernetes-cluster-with-seccomp-and-selinux-profiles/amp/)
+* [A guide to admission controllers](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 
 
 ## Post Exploit
