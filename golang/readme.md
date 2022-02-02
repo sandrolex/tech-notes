@@ -3,6 +3,10 @@
 ## Patterns
 * [Functional Options](https://www.sohamkamani.com/golang/options-pattern/)
 * [OOP with dependency injection](https://www.toptal.com/go/golang-oop-tutorial)
+
+
+## Go-Kit
+* [some repos with go-kit examples](https://github.com/jwenz723?after=Y3Vyc29yOnYyOpK5MjAxOS0wNy0yN1QwMjoyNzozNiswMjowMM4L29jq&tab=repositories)
 * [GRPC with go-kit](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 
 ## Tools
