@@ -1,5 +1,8 @@
 # Kubernetes
 
+## Examples
+* [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+
 ## Howtos
 * [k8s on baremetal, flannel, metallb, coreos](https://www.marcolancini.it/2021/blog-kubernetes-lab-baremetal/)
 * [Generate Network Policy by sniffing network traffic](https://itnext.io/generating-kubernetes-network-policies-by-sniffing-network-traffic-6d5135fe77db)
