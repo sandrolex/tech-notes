@@ -46,6 +46,7 @@
 
 ## Etcd
 * [How to modify etcd data directly](https://medium.com/flant-com/modifying-kubernetes-etcd-data-ed3d4bb42379)
+* [Etcd security model](https://etcd.io/docs/v3.2/op-guide/security/)
 
 ## OPA
 * [Top 5 k8s controls](https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies)
