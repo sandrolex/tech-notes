@@ -54,6 +54,7 @@
 ## Multi-tenancy
 * [MT with Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
 * [HNC](https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/)
+* [MT workgroup presentation from KubeCon 19](https://static.sched.com/hosted_files/kccncna19/f7/kubecon-us-2019-mt-wg-deep-dive.pdf)
 
 
 ## tools
