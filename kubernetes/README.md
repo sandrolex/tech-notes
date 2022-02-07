@@ -17,6 +17,7 @@
 * [How to configure security context for a pod](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 * [Seccomp and SELinux](https://jhrozek.wordpress.com/2021/05/25/prevent-cve-exploits-in-your-kubernetes-cluster-with-seccomp-and-selinux-profiles/amp/)
 * [A guide to admission controllers](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
+* [real world pentest for kubernetes](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g767a4f706d_0_116)
 
 
 ## Post Exploit
