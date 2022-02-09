@@ -35,6 +35,8 @@ docker run ngimx:latest
 ## Dockerfile and CIS Benchmark
 * [Hadolint](https://github.com/hadolint/hadolint) - tests Dockerfile
 * [Dockle](https://github.com/goodwithtech/dockle) - tests images
+* [Seccomp lab](https://github.com/docker/labs/blob/master/security/seccomp/README.md)
+* [Apparmor lab](https://github.com/docker/labs/blob/master/security/apparmor/README.md)
 
 
 ## CVE
