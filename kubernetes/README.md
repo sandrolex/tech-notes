@@ -52,6 +52,7 @@
 ## OPA
 * [Top 5 k8s controls](https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies)
 * [Rego Unit Testing](https://blog.styra.com/blog/rego-unit-testing)
+* [5 tips for the Rego language](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa)
 
 ## Multi-tenancy
 * [MT with Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
