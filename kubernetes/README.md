@@ -43,7 +43,8 @@
 * [K8s CTF](https://github.com/quarkslab/minik8s-ctf)
 * [KubeCon 19 CTF](https://securekubernetes.com/)
 
-
+## Helm
+* [Exploring the security of Helm](https://engineering.bitnami.com/articles/helm-security.html)
 ## Etcd
 * [How to modify etcd data directly](https://medium.com/flant-com/modifying-kubernetes-etcd-data-ed3d4bb42379)
 * [Etcd security model](https://etcd.io/docs/v3.2/op-guide/security/)
