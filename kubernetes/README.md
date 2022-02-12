@@ -55,6 +55,7 @@
 * [5 tips for the Rego language](https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa)
 * [Kyverno](https://kyverno.io/)
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+* [CrossGuard - Pulumi's Policy as Code](https://www.pulumi.com/docs/guides/crossguard/)
 
 ## Multi-tenancy
 * [MT with Hiearchical Namespaces](https://engineering.mercari.com/blog/entry/20210930-scaling-kubernetes-tenant-management-with-hierarchical-namespaces-controller/)
