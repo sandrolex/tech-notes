@@ -1,10 +1,6 @@
 # Kubernetes
 
-## Examples
-* [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
-
 ## Howtos
-* [k8s on baremetal, flannel, metallb, coreos](https://www.marcolancini.it/2021/blog-kubernetes-lab-baremetal/)
 * [Generate Network Policy by sniffing network traffic](https://itnext.io/generating-kubernetes-network-policies-by-sniffing-network-traffic-6d5135fe77db)
 * [Flatcar linux](https://www.rkatz.xyz/post/2020-09-13-flatcar/)
 * [Kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower
@@ -18,7 +14,11 @@
 * [Seccomp and SELinux](https://jhrozek.wordpress.com/2021/05/25/prevent-cve-exploits-in-your-kubernetes-cluster-with-seccomp-and-selinux-profiles/amp/)
 * [A guide to admission controllers](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 * [real world pentest for kubernetes](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g767a4f706d_0_116)
+* [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 
+## Bare Metal
+* [Build Bare Metal with External Access & containerd](https://www.datapacket.com/blog/build-kubernetes-cluster)
+* * [k8s on baremetal, flannel, metallb, coreos](https://www.marcolancini.it/2021/blog-kubernetes-lab-baremetal/)
 
 ## Post Exploit
 * [C2](https://github.com/cyberark/kubesploit)
