@@ -15,6 +15,7 @@
 * [A guide to admission controllers](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 * [real world pentest for kubernetes](https://docs.google.com/presentation/d/1y6KGGT5Uw27cCgFMKiGv0NjRhq8YvjY_S9UG8s_TThg/edit#slide=id.g767a4f706d_0_116)
 * [Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [Kubernetes Operator 101](https://developers.redhat.com/articles/2021/06/11/kubernetes-operators-101-part-1-overview-and-key-features#operators_extend_kubernetes_to_automate_tasks)
 
 ## Bare Metal
 * [Build Bare Metal with External Access & containerd](https://www.datapacket.com/blog/build-kubernetes-cluster)
