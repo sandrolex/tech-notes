@@ -10,3 +10,4 @@
 
 * [Transparent logs](https://transparency.dev/)
 
+* [Rachet - tool for pinning GHA dependencies versions](https://github.com/sethvargo/ratchet)
