@@ -11,3 +11,5 @@
 * [oauth2 OBO flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow)
 
 * [service-to-service authentication schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/)
+
+* [Keylime](https://keylime.dev/) manage server's attestations
