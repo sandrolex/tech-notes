@@ -11,3 +11,7 @@
 * [Transparent logs](https://transparency.dev/)
 
 * [Rachet - tool for pinning GHA dependencies versions](https://github.com/sethvargo/ratchet)
+
+* [OpenClarity](https://github.com/openclarity) tools for verifying SBOM in runtime, kubeclarity
+
+* [gitbom](https://gitbom.dev/) use git to build artifacts, sbom, using native git hashes, merklee tree
