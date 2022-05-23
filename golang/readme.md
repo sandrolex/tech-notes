@@ -1,5 +1,8 @@
 # Golang
 
+# Learn
+* [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+
 ## Patterns
 * [Functional Options](https://www.sohamkamani.com/golang/options-pattern/)
 * [OOP with dependency injection](https://www.toptal.com/go/golang-oop-tutorial)
