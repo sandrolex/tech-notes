@@ -13,3 +13,5 @@
 * [service-to-service authentication schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/)
 
 * [Keylime](https://keylime.dev/) manage server's attestations
+
+* [Spire](https://github.com/spiffe/spire)
