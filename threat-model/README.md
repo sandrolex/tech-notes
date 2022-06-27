@@ -7,3 +7,5 @@
 * [rapid risk assessment from mozilla](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment.html)
 
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
+
+* [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)
