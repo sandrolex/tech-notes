@@ -9,3 +9,7 @@
 * [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 
 * [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling)
+
+
+## Examples
+* [linkerd by trail of bits](https://github.com/linkerd/linkerd2/tree/main/audits/2022)
