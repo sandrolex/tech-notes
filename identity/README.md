@@ -15,3 +15,10 @@
 * [Keylime](https://keylime.dev/) manage server's attestations
 
 * [Spire](https://github.com/spiffe/spire)
+
+* [Solving the bottom turtle the book](https://spiffe.io/book/)
+
+
+## FIDO2/Webauthn
+* [Okta press](https://www.youtube.com/watch?v=mjHIt9lDBgA)
+* [How FIDO2 stops account takeover - RSA conference 2020](https://www.youtube.com/watch?v=aMo4ZlWznao)
