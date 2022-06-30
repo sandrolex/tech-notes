@@ -16,3 +16,6 @@
 
 ## File encryption
 * [age](https://github.com/FiloSottile/age)
+
+## Course
+* [CryptoHack](https://cryptohack.org/)
