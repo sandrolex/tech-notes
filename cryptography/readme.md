@@ -26,6 +26,8 @@
 ## Libraries
 * [NaCl](https://nacl.cr.yp.to/index.html) - C, C++, Python
 * [Libsodium](https://libsodium.gitbook.io/doc/quickstart)
+* [WolfCrypt](https://www.wolfssl.com/products/wolfcrypt-2/)
+* [Bounty Castle](https://bouncycastle.org/) - Java
 
 ## Password
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2)
