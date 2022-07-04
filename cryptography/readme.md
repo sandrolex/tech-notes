@@ -10,6 +10,7 @@
 * [Certificate Transparency](https://certificate.transparency.dev/howctworks/)
 * [Hybrid Cryptosystem](https://en.m.wikipedia.org/wiki/Hybrid_cryptosystem)
 * [Secret Sharing](https://en.m.wikipedia.org/wiki/Secret_sharing#Trivial_secret_sharing)
+* [AEAD](https://en.wikipedia.org/wiki/Authenticated_encryption) Authenticated Encryption with Associated Data
 
 ## JWT
 * [No Way Jose](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) JWT is a bad standard. 
