@@ -19,3 +19,7 @@
 
 ## Course
 * [CryptoHack](https://cryptohack.org/)
+
+## Libraries
+* [NaCl](https://nacl.cr.yp.to/index.html) - C, C++, Python
+* [Libsodium](https://libsodium.gitbook.io/doc/quickstart)
