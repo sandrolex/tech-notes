@@ -26,3 +26,6 @@
 ## Libraries
 * [NaCl](https://nacl.cr.yp.to/index.html) - C, C++, Python
 * [Libsodium](https://libsodium.gitbook.io/doc/quickstart)
+
+## Password
+* [Argon2](https://github.com/P-H-C/phc-winner-argon2)
