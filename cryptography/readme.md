@@ -8,6 +8,7 @@
 * [Books](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/)
 * [Cryptographic right answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)
 * [Certificate Transparency](https://certificate.transparency.dev/howctworks/)
+* [Hybrid Cryptosystem](https://en.m.wikipedia.org/wiki/Hybrid_cryptosystem)
 
 ## JWT
 * [No Way Jose](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) JWT is a bad standard. 
