@@ -23,5 +23,5 @@
 
 
 ## Papers
-* [Prevention of Rollback Attacks Against Community Repositories]([Prevention of Rollback Attacks Against Community Repositories](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:_FxGoFyzp5QC)) -> TUF and Mercurial
+* [Prevention of Rollback Attacks Against Community Repositories]((https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:_FxGoFyzp5QC) -> TUF and Mercurial
 * [in-toto: Providing farm-to-table guarantees for bits and bytes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:UebtZRa9Y70C)
