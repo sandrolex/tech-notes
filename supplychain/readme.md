@@ -20,3 +20,8 @@
 * [Scorecard](https://github.com/ossf/scorecard)
 * [https://github.com/ossf/allstar](https://github.com/ossf/allstar)
 * [Rachet - tool for pinning GHA dependencies versions](https://github.com/sethvargo/ratchet)
+
+
+## Papers
+* [Prevention of Rollback Attacks Against Community Repositories](Prevention of Rollback Attacks Against Community Repositories) -> TUF and Mercurial
+* [in-toto: Providing farm-to-table guarantees for bits and bytes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:UebtZRa9Y70C)
