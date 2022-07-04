@@ -7,6 +7,7 @@
 * [Api Tokens, a tedious survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [Books](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/)
 * [Cryptographic right answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)
+* [Certificate Transparency](https://certificate.transparency.dev/howctworks/)
 
 ## JWT
 * [No Way Jose](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) JWT is a bad standard. 
