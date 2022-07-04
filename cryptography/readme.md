@@ -9,6 +9,7 @@
 * [Cryptographic right answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)
 * [Certificate Transparency](https://certificate.transparency.dev/howctworks/)
 * [Hybrid Cryptosystem](https://en.m.wikipedia.org/wiki/Hybrid_cryptosystem)
+* [Secret Sharing](https://en.m.wikipedia.org/wiki/Secret_sharing#Trivial_secret_sharing)
 
 ## JWT
 * [No Way Jose](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) JWT is a bad standard. 
@@ -26,7 +27,7 @@
 ## Libraries
 * [NaCl](https://nacl.cr.yp.to/index.html) - C, C++, Python
 * [Libsodium](https://libsodium.gitbook.io/doc/quickstart)
-* [WolfCrypt](https://www.wolfssl.com/products/wolfcrypt-2/)
+* [WolfSSL](https://www.wolfssl.com/products/wolfcrypt-2/)
 * [Bounty Castle](https://bouncycastle.org/) - Java
 
 ## Password
