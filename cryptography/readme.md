@@ -33,3 +33,6 @@
 
 ## Password
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2)
+
+## Post-Quantum
+* [Migration Strategy for Quantum Safe Schemes](https://www.etsi.org/deliver/etsi_tr/103600_103699/103619/01.01.01_60/tr_103619v010101p.pdf)
