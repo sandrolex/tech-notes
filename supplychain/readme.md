@@ -15,11 +15,16 @@
 
 * [gitbom](https://gitbom.dev/) use git to build artifacts, sbom, using native git hashes, merklee tree
 
+* [Supply Chain Top 10](https://www.cidersecurity.io/top-10-cicd-security-risks/) By Cider
+
+* [Supply Chain Credential Hygiene](https://www.cidersecurity.io/blog/research/optimizing-ci-cd-credential-hygiene-a-comparison-of-ci-cd-solutions/) Comparing CI products. By Cider
+
 
 ## Github Actions
 * [Scorecard](https://github.com/ossf/scorecard)
 * [https://github.com/ossf/allstar](https://github.com/ossf/allstar)
 * [Rachet - tool for pinning GHA dependencies versions](https://github.com/sethvargo/ratchet)
+* [Supply Chain Bench](https://github.com/aquasecurity/chain-bench)
 
 
 ## Papers
