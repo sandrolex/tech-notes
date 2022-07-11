@@ -25,6 +25,7 @@
 * [https://github.com/ossf/allstar](https://github.com/ossf/allstar)
 * [Rachet - tool for pinning GHA dependencies versions](https://github.com/sethvargo/ratchet)
 * [Supply Chain Bench](https://github.com/aquasecurity/chain-bench)
+* [Protect your github actions](https://r2c.dev/blog/2021/protect-your-github-actions-with-semgrep/) using Semgrep
 
 
 ## Papers
