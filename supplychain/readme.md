@@ -31,3 +31,4 @@
 ## Papers
 * [Prevention of Rollback Attacks Against Community Repositories](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:_FxGoFyzp5QC) -> TUF and Mercurial
 * [in-toto: Providing farm-to-table guarantees for bits and bytes](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FeaUK74AAAAJ&citation_for_view=FeaUK74AAAAJ:UebtZRa9Y70C)
+* [NSA's Securing the Supply Chain for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
