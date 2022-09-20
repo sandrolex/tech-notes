@@ -19,6 +19,8 @@
 
 * [Supply Chain Credential Hygiene](https://www.cidersecurity.io/blog/research/optimizing-ci-cd-credential-hygiene-a-comparison-of-ci-cd-solutions/) Comparing CI products. By Cider
 
+* [Microsoft's Framework on how to consume OSS](https://github.com/microsoft/oss-ssc-framework/blob/main/specification/framework.md)
+
 
 ## Github Actions
 * [Scorecard](https://github.com/ossf/scorecard)
