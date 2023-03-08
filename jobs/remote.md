@@ -12,3 +12,4 @@
 * remote .co
 * dice .com
 * angel .co
+* [Flexa](https://flexa.careers/jobs?q=security)
