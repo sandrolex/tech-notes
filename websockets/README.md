@@ -14,7 +14,7 @@
 * [Websocket vulns](https://blog.securelayer7.net/owasp-top-10-details-websocket-vulnerabilities-mitigations/)
 * [We're not on HTTP anymore](https://www.youtube.com/watch?v=bMFP71UAbPo&list=PLpr-xdpM8wG-WUI7yLUvdjm-Bcw7AqG9m&index=14) OWASP presentation on ws security. 
 * [awesome we security](https://github.com/PalindromeLabs/awesome-websocket-security)
-
+* [Websockets are pain](https://blog.zsec.uk/websockets-are-fun/)
 
 ## Tools
 * [websocat](https://github.com/vi/websocat)
