@@ -10,3 +10,4 @@
 ## Security
 * [The AI Attack surface Map](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/)
 * [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
+* [Prompt Injection on GPT-4](https://www.robustintelligence.com/blog-posts/prompt-injection-attack-on-gpt-4)
