@@ -7,3 +7,6 @@
 ## Privacy By Design
 * [Privacy Patterns](https://privacypatterns.org/)
  
+
+## Right to be forgotten (RTBF)
+* [RTBF and LLMs](https://arxiv.org/pdf/2307.03941.pdf) - Machine Unlearning
