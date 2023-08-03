@@ -8,6 +8,7 @@
 
 ## Location
 * [definition of precise location](https://thenai.org/wp-content/uploads/2021/07/nai_impreciselocation2.pdf)
+* [How to track president Trump](https://www.nytimes.com/interactive/2019/12/20/opinion/location-data-national-security.html)
 
 ## Right to be forgotten (RTBF)
 * [RTBF and LLMs](https://arxiv.org/pdf/2307.03941.pdf) - Machine Unlearning
