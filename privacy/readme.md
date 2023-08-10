@@ -12,3 +12,7 @@
 
 ## Right to be forgotten (RTBF)
 * [RTBF and LLMs](https://arxiv.org/pdf/2307.03941.pdf) - Machine Unlearning
+
+
+## Threat Model
+* [Privacy Adversarial Framework](https://github.com/facebookresearch/privacy_adversarial_framework) - Facebook / Meta
