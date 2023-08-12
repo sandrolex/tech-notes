@@ -16,3 +16,9 @@
 
 ## Threat Model
 * [Privacy Adversarial Framework](https://github.com/facebookresearch/privacy_adversarial_framework) - Facebook / Meta
+
+
+## Books
+* [Why Privacy Matters?](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards-ebook/dp/B09LVT9H7G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+* [The fight for Privacy](https://www.amazon.fr/Fight-Privacy-Protecting-Dignity-Identity-ebook/dp/B09QM15594/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+
