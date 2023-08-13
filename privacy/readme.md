@@ -22,3 +22,6 @@
 * [Why Privacy Matters?](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards-ebook/dp/B09LVT9H7G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 * [The fight for Privacy](https://www.amazon.fr/Fight-Privacy-Protecting-Dignity-Identity-ebook/dp/B09QM15594/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
+
+# Jobs
+* [How to start your privacy job search](https://theprivacypractitioner.com/how-to-start-your-privacy-job-search/)
