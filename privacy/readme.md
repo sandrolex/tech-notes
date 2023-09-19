@@ -13,6 +13,8 @@
 ## Right to be forgotten (RTBF)
 * [RTBF and LLMs](https://arxiv.org/pdf/2307.03941.pdf) - Machine Unlearning
 
+## Background knowledge Attack
+* [Background knowledge attacks in privacy-preserving data publishing models](https://www.sciencedirect.com/science/article/abs/pii/S0167404822002681?dgcid=rss_sd_all)
 
 ## Threat Model
 * [Privacy Adversarial Framework](https://github.com/facebookresearch/privacy_adversarial_framework) - Facebook / Meta
