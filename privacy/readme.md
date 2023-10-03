@@ -21,9 +21,12 @@
 
 
 ## Books
+* [Data Privacy a Runbook for Engineers](https://www.amazon.com/Data-Privacy-engineers-Nishant-Bhajaria/dp/1617298999)
 * [Why Privacy Matters?](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards-ebook/dp/B09LVT9H7G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 * [The fight for Privacy](https://www.amazon.fr/Fight-Privacy-Protecting-Dignity-Identity-ebook/dp/B09QM15594/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
-
+* [Pratical Data Privacy](https://www.amazon.com/Practical-Data-Privacy-Enhancing-Security/dp/1098129466)
+* [The battle for your brain](https://www.amazon.com/Battle-Your-Brain-Defending-Neurotechnology-ebook/dp/B09Y45MY2V)
+* [Tracers in the dark](https://www.amazon.fr/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095)
 
 # Jobs
 * [How to start your privacy job search](https://theprivacypractitioner.com/how-to-start-your-privacy-job-search/)
