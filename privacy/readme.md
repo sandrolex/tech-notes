@@ -28,6 +28,8 @@
 * [Nist Differential Privavy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog)
 * [A friendly non technical introduction to Differential Privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html)
 * [Pratical Differential Privacy - Jupiter Notebook](https://github.com/kjam/practical-data-privacy/blob/main/02%20-%20Exploring%20Differential%20Privacy%20with%20Laplace.ipynb)
+* [Using Spark and Differential Privacy on US Census Data](https://www.youtube.com/watch?v=bxU6yHNUVns&t=49s)
+* [Slide deck on Differential Privacy](https://simson.net/ref/2019/2019-07-16%20Deploying%20Differential%20Privacy%20for%20the%202020%20Census.pdf)
 
 ## Books
 * [Data Privacy a Runbook for Engineers](https://www.amazon.com/Data-Privacy-engineers-Nishant-Bhajaria/dp/1617298999)
