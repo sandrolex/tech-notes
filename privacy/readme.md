@@ -24,6 +24,11 @@
 * [Pseudoanonimisation Lab](https://github.com/kjam/practical-data-privacy/blob/main/01%20-%20Pseudonymization.ipynb)
 * [Format-Preserving Encryption using vault](https://www.hashicorp.com/blog/encrypting-data-while-preserving-formatting-with-the-vault-enterprise-transform-s)
 
+### Differential Privacy
+* [Nist Differential Privavy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog)
+* [A friendly non technical introduction to Differential Privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html)
+* [Pratical Differential Privacy - Jupiter Notebook](https://github.com/kjam/practical-data-privacy/blob/main/02%20-%20Exploring%20Differential%20Privacy%20with%20Laplace.ipynb)
+
 ## Books
 * [Data Privacy a Runbook for Engineers](https://www.amazon.com/Data-Privacy-engineers-Nishant-Bhajaria/dp/1617298999)
 * [Why Privacy Matters?](https://www.amazon.com/Why-Privacy-Matters-Neil-Richards-ebook/dp/B09LVT9H7G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
